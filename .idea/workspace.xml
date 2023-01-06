@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a91d2ea6-aade-48aa-a68c-05b2e4629c71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snake.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SnakeGame.java" afterDir="false" />
+    <list default="true" id="a91d2ea6-aade-48aa-a68c-05b2e4629c71" name="Changes" comment="init Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,8 +75,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672970210067</updated>
-      <workItem from="1672970213341" duration="6691000" />
+      <workItem from="1672970213341" duration="7331000" />
     </task>
+    <task id="LOCAL-00001" summary="init Commit">
+      <created>1672977266186</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672977266186</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,11 +101,26 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
             </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
